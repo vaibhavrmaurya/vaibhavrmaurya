@@ -10,23 +10,29 @@
 ### 🛠️ Tech Stack
 
 **Frontend**
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Tailwind CSS](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="TypeScript" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="React" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Tailwind CSS" width="40" height="40" />
+</p>
 
 **Backend & Databases**
-![Node.js](https://shields.io)
-![Express.js](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MongoDB](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="Node.js" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Express.js" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="MongoDB" width="40" height="40" />
+</p>
 
 **Tools & Deployment**
-![Git](https://shields.io)
-![Docker](https://shields.io)
-![Vercel](https://shields.io)
+<p>
+  <img src="https://githubusercontent.com" alt="Git" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Docker" width="40" height="40" />
+  <img src="https://skillicons.dev" alt="Vercel" width="40" height="40" />
+</p>
 
 ---
 
@@ -41,11 +47,17 @@
 
 ### 📊 GitHub Stats
 
-![Vaibhav's GitHub Stats](https://vercel.app)
+![Vaibhav's GitHub Streak](https://demolab.com)
 
 ---
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![X](https://shields.io)](https://x.com)
+<p>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://x.com" target="_blank">
+    <img src="https://githubusercontent.com" alt="X" width="40" height="40" />
+  </a>
+</p>
