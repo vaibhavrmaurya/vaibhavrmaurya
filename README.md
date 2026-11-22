@@ -3,7 +3,7 @@
 ### Full-Stack Web Developer | Building fast, accessible web applications
 
 - 🌱 **Currently learning:** Next.js, TypeScript, and System Design.
-- 💼 **Portfolio:**
+- 💼 **Portfolio:** [Add Your Portfolio Link](https://your-portfolio-link.com)
 
 ---
 
@@ -34,12 +34,14 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Project One** | Full-stack e-commerce platform with Stripe checkout. | React, Node.js, PostgreSQL | [Live Demo](https://example.com) • [Code](https://github.com) |
-| **Project Two** | Real-time collaborative task manager with WebSockets. | Next.js, TypeScript, Prisma | [Live Demo](https://example.com) • [Code](https://github.com) |
+| **Project One** | Full-stack e-commerce platform with Stripe checkout. | React, Node.js, PostgreSQL | [Live Demo](https://your-demo-link.com) • [Code](https://github.com) |
+| **Project Two** | Real-time collaborative task manager with WebSockets. | Next.js, TypeScript, Prisma | [Live Demo](https://your-demo-link.com) • [Code](https://github.com) |
+
+---
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://vercel.app)
+![Vaibhav's GitHub Stats](https://vercel.app)
 
 ---
 
